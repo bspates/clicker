@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "async": "latest"
+  },
+  "devDependencies": {
+    "coffee-script": "latest",
+    "coffeelint": "latest",
+    "grunt-coffeelint": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-simple-mocha": "^0.4.0"
+  }
+}
